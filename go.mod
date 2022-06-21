@@ -1,4 +1,4 @@
-module github.com/saucelabs/saucectl
+module github.com/saucelabs/saucectl/v0.100.5-beta
 
 go 1.18
 
