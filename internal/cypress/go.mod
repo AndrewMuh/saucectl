@@ -1,4 +1,4 @@
-module saucectl/internal/cypress
+module saucectl/internal/cypress/v1
 
 go 1.18
 
